@@ -1,0 +1,117 @@
+body{
+	background-image: url("../images/background.jpg");
+	background-repeat: repeat;
+	display: block;
+	background-color: white;
+}
+
+.container{
+	background-color: white;
+}
+
+.jumbotron{
+
+	background-image:url("../images/title-background.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	
+}
+
+
+#logo {
+	
+	display: block;
+/*	width: 400px;*/
+	max-height: 70px;
+	
+		
+}
+
+.list-group-item {
+	margin-bottom: 20px;
+	text-align: center;
+}
+
+
+/* Remove the navbar's default margin-bottom and rounded borders */
+.navbar {
+  margin-bottom: 0;
+  border-radius: 0;
+}
+
+.img-responsive {
+    width: 100%;
+	height: 100%;
+	margin: 0px;
+	padding: 10px;
+	display: block;
+}
+
+
+
+
+/* Set black background color, white text and some padding */
+footer {
+/*  background-color: #555;
+  color: white;*/
+  padding: 15px;
+  
+  
+  background-color: #1B2D86;
+  color: #FED52E;
+}
+
+	
+
+
+
+
+/*
+.carousel-inner>.item>img{
+	width: auto;
+	height: 600px;
+	
+}
+*/
+
+
+
+.slide-ad {
+  
+}
+
+#prof-ad-01{
+	height: 400px;
+	
+}
+	
+
+	
+	
+/**************************************************
+#middle-sec{
+	
+	overflow: hidden;
+}
+
+#middle-sec > [class^="col-"]{
+  margin-bottom: -99999px;
+  padding-bottom: 99999px;
+  overflow:hidden;
+}
+
+.list-group {
+  height: 100%;
+	
+}
+
+
+.list-group-item {
+	
+	height: 50px;
+}
+
+*/
+	
+	
+	
