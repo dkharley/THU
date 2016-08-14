@@ -18,6 +18,7 @@ body{
 	background-repeat: no-repeat;
 	background-size: 100% 100%;
 	min-height: 300px;
+	margin-bottom: 0px;
 
 }
 
@@ -58,7 +59,7 @@ body{
 .navbar {
   margin-bottom: 0px;
   border-radius: 5px;
-  margin-right: 5px;
+  margin-right: 0px;
   margin-left: 5px;
 }
 
@@ -74,8 +75,18 @@ body{
 
 .img-responsive {
 	padding: 0px;
+	
 }
 
+#courses{
+	background-color: #FED52E;
+	
+}
+
+#adLeftCol{
+	padding-right: 0px;
+	
+}
 
 
 
@@ -110,7 +121,7 @@ footer {
 
 
 
-	
+	/*
 
 
 #ads .row{
@@ -125,6 +136,7 @@ footer {
 
 }
 
+*/
 
 	
 /**************************************************
